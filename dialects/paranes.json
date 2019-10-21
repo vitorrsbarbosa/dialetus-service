@@ -263,6 +263,11 @@
         "dialect": "Sinalero",
         "meanings": ["Semáforo"],
         "examples": ["Piá, que multa é essa que veio do fuque, dizendo que tu furou o sinalero?"]
+    },
+    {
+        "dialect": "Erguer",
+        "meanings": ["Aumentar", "Levantar"],
+        "examples": ["Ergue o volume da TV porque não estou escutando"]
     }
 ]
 
