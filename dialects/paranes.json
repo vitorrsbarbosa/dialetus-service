@@ -263,6 +263,16 @@
         "dialect": "Sinalero",
         "meanings": ["Semáforo"],
         "examples": ["Piá, que multa é essa que veio do fuque, dizendo que tu furou o sinalero?"]
+    },
+    {
+        "dialect": "Erguer",
+        "meanings": ["Aumentar", "Levantar"],
+        "examples": ["Ergue o volume da TV porque não estou escutando"]
+    },
+    {
+        "dialect": "Se pá",
+        "meanings": ["Talvez","Provavelmente"],
+        "examples": ["Se pá eu vou na festa hoje a noite", "Se pá hoje da pra ir no bar"]
     }
 ]
 

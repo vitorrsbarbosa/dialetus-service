@@ -318,5 +318,11 @@
     "dialect": "Resenheiro",
     "meanings": ["Pessoa que gosta de zoar", "Tirar onda"],
     "examples": ["Ricardo é resenheiro."]
+  },
+  {
+    "dialect": "Oxe",
+    "variations": ["baianes.Oxente"],
+    "meanings": ["Surpresa","Indignação"],
+    "examples": ["Oxe e é é?"]
   }
 ]

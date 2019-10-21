@@ -6,7 +6,7 @@ describe('Integration: Dialect Regions endpoint', () => {
   const expectedResponse = [
     {
       name: 'alagoanes',
-      total: 64,
+      total: 65,
     },
     {
       name: 'amazones',
@@ -50,7 +50,7 @@ describe('Integration: Dialect Regions endpoint', () => {
     },
     {
       name: 'paranes',
-      total: 53,
+      total: 55,
     },
     {
       name: 'paulistes',

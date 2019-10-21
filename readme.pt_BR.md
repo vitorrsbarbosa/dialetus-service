@@ -53,7 +53,7 @@ $ curl https://dialetus-service.herokuapp.com/regions
 ```json
 [{
   "name": "alagoanes",
-  "total": 64
+  "total": 65
 }, {
   "name": "amazones",
   "total": 9
@@ -86,7 +86,7 @@ $ curl https://dialetus-service.herokuapp.com/regions
   "total": 30
 }, {
   "name": "paranes",
-  "total": 53
+  "total": 55
 }, {
   "name": "paulistes",
   "total": 16
